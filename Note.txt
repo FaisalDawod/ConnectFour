@@ -1,0 +1,5 @@
+Before open the C file to see the code of the game, I recommend you know these consepts if you are beginner:
+1. The condition statments.
+2. The Loop statments.
+3. What is function? And how to create it?
+4. Tracing techniques.
